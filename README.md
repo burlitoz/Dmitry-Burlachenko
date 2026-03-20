@@ -13,7 +13,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-5282FF?style=for-the-badge&logo=yandex&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -36,9 +39,11 @@
 
 | Область | Инструменты | Что делаю |
 |---------|-------------|----------|
-| **CI/CD** | GitLab CI | Строю пайплайны со сборкой и деплоем |
+| **CI/CD** | GitLab CI, GitHub Actions | Строю пайплайны со сборкой, тестированием и деплоем |
 | **IaC / Конфигурация** | Ansible | Автоматизирую развертывание и настройку серверов |
 | **Контейнеризация** | Docker | Пишу оптимизированные Dockerfile, упаковываю приложения |
+| **Веб-серверы** | Nginx | Настраиваю reverse proxy, балансировку нагрузки, SSL |
+| **Базы данных** | PostgreSQL | Работаю с SQL, настраиваю БД, бэкапы, оптимизирую запросы |
 | **Облака** | Yandex Cloud | Настраиваю VPC, виртуальные машины, сети и облачную инфраструктуру |
 | **Мониторинг** | Prometheus + Grafana | Собираю метрики, строю дашборды, настраиваю алерты |
 | **ОС и автоматизация** | Linux (Ubuntu), Bash | Администрирую серверы, автоматизирую рутинные задачи |
