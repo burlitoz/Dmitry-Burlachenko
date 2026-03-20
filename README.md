@@ -80,6 +80,6 @@
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@dmitry_burlachenko-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/burlitoz)
-[![GitHub](https://img.shields.io/badge/GitHub-dburlachenko-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burlitoz)
-[![Email](https://img.shields.io/badge/Email-d.burlachenko@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitry2q@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@burlitoz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/burlitoz)
+[![GitHub](https://img.shields.io/badge/GitHub-burlitoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burlitoz)
+[![Email](https://img.shields.io/badge/Email-dmitry2q@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitry2q@gmail.com)
