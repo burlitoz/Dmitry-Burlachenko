@@ -72,6 +72,17 @@
 
 ---
 
+## 🫡 DevOps-проект: автоматизированное развертывание Flask-приложения
+
+- Стек: Docker, GitHub Actions, Ansible, Yandex Cloud, nginx, Python/Flask
+- Реализовал CI/CD пайплайн с автоматическим деплоем на VPS при пуше в main
+- Настроил сервер через Ansible
+- Настроил reverse proxy (nginx) и healthchecks
+- Ссылка на GitHub: https://github.com/burlitoz/devops-vps-deploy
+- Ссылка на работающее приложение: http://62.84.114.79:5000
+
+---
+
 ## 📚 Любимая литература
 
 Книги, которые сформировали мое понимание DevOps, Linux и инфраструктуры:
